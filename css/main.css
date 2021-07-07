@@ -5,6 +5,9 @@ body {
 video {
   max-width: 100%;
   width: 320px;
+  border: 10px;
+  margin-right: 100px;
+  border-radius: 24px;
 }
 h1{
   text-align: center;
